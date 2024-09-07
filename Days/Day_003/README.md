@@ -4,7 +4,8 @@
 
 ![100 days of code Day 3](https://github.com/GritinAI/........)
 
-Welcome to Day 3! Today, we’ll learn about control flow and data structures and other essential python concepts.
+Welcome to Day 3! 
+Today, we’ll learn about control flow and data structures and other essential python concepts.
 
 **If Statements:** Control the flow of your program with if, elif, and else statements to handle different conditions.
 
