@@ -1,6 +1,6 @@
 # Day 4 Resources
 
-## Understanding Machine Learning
+## Understanding Google Colab
 
 ![100 days of code Day 4](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day4.jpg)
 
