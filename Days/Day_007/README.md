@@ -9,6 +9,7 @@ Welcome to Day 7 of the 100 Days of Code challenge! Today, we’ll cover Generat
 ### Generative AI
 
 Generative AI involves models that can create new content, such as text, images, and music, based on training data. It’s widely used in fields like content creation, art, and chatbots.
+
 [How to survive and thrive in the age of Artificial Intelligence](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
 ### Generative AI vs. Descriptive AI
