@@ -4,7 +4,7 @@
 
 ![100 days of code Day 6](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day6.jpg)
 
-Welcome to Day 9! Today, we’ll focus on how to approach a real machine learning problem.
+Welcome to Day 6! Today, we’ll focus on how to approach a real machine learning problem.
 
 ### How to Approach a Real Machine Learning Problem:
 
