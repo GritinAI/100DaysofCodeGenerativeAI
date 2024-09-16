@@ -10,4 +10,4 @@ Today, we’ll look into the Transformer Architecture, the foundation behind man
 
 Explore the inner workings of the transformer model, a breakthrough in machine learning that processes sequences of data and enables efficient, parallel processing of tasks.
 
-[What is a TRansformer](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+[What is a Transformer](https://www.youtube.com/watch?v=SZorAJ4I-sA)
