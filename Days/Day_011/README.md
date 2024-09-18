@@ -6,7 +6,7 @@
 
 Welcome to Day 10 of the 100 Days of Code challenge! 
 
-Today, we'll get started with Prompt Engineering, a crucial skill for interacting effectively with AI models. Prompt Engineering involves designing and refining prompts to get the best responses from AI systems.
+Today, we'll get started with Prompt Engineering, an important skill for interacting effectively with AI models. Prompt Engineering involves designing and refining prompts to get the best responses from AI systems.
 
 - [Prompting Guide](https://www.promptingguide.ai/)
 
