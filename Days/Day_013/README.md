@@ -6,7 +6,7 @@
 
 Welcome to Day 13 of the 100 Days of Code challenge!
 
-Today, we continue learning about Prompt Engineering by focusing on best practices and resources from OpenAI and Google.
+Today, we continue learning about Prompt Engineering by focusing on best practices and resources from OpenAI.
 
 - [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks-into-simpler-subtasks)
 
