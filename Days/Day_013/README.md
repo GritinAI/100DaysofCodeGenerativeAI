@@ -11,4 +11,3 @@ Today, we continue learning about Prompt Engineering by focusing on best practic
 - [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks-into-simpler-subtasks)
 
 - [Best practices for Prompt Enginnering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
-
