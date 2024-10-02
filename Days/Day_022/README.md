@@ -1,6 +1,6 @@
 # Day 22 Resources
 
-## Vector Database
+## Vector Embeddings
 
 ![100 days of code Day 22](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day22.jpg)
 
